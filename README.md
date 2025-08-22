@@ -1,4 +1,4 @@
-# 💫Hi, I'm Suraj Kumar 😊
+# 💫Hi there, I'm Suraj Kumar 😊
 ** Passionate about Artificial Intelligence & Data Scientist || Frontend Developer **
 
 ** Currently Learning C++ | Java | Python | Data Science | Artificial Intelligence 
