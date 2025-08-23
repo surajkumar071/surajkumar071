@@ -1,4 +1,4 @@
-# 💫Hi there, I'm Suraj Kumar 😊
+# 💕 Hi there, I'm Suraj Kumar  💞
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=surajkumar071&label=Profile%20views&color=0e75b6&style=flat" alt="surajkumar071" />
@@ -13,7 +13,7 @@
 Email Me 👉 ✉️ surajnirala9006@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_surajnirala_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/surajkumar071) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_surajnirala_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@CodewithAshu071) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surajnirala9006@gmail.com) 
 
 # 💻 Tech Stack:
