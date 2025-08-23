@@ -1,4 +1,9 @@
 # 💫Hi there, I'm Suraj Kumar 😊
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=surajkumar071&label=Profile%20views&color=0e75b6&style=flat" alt="surajkumar071" />
+</p>
+
 ** Passionate about Artificial Intelligence & Data Scientist || Frontend Developer **
 
 ** Currently Learning C++ | Java | Python | Data Science | Artificial Intelligence 
