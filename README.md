@@ -111,7 +111,7 @@ Email Me 👉 ✉️ surajnirala9006@gmail.com For Collaboration/Project or Anyt
 <!-- ########################################## ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/surajkumar071/surajkumar071/assets/images/hr.gif" />
 
-<!-- GitHub metrics 信息指标 -->
+<!-- GitHub metrics -->
 <div align="center">
 
 <!-- just img 图片 -->
