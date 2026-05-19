@@ -1,4 +1,10 @@
-# 💕 Hi there, I'm Suraj Kumar  💞
+<!-- ================= HEADER ================= -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,25:0f0f0f,50:1a1a2e,75:16213e,100:0f3460&text=Suraj%20Kumar&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Data%20Science%20✦%20Agentic%20AI%20Developer&descAlignY=60&animation=fadeIn"/>
+</div>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=surajkumar071&label=Profile%20views&color=0e75b6&style=flat" alt="surajkumar071" />
 </p>
@@ -130,5 +136,6 @@ Email Me 👉 ✉️ surajnirala9006@gmail.com For Collaboration/Project or Anyt
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
 </div>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ================= FOOTER ================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:000000,25:0f0f0f,50:1a1a2e,75:16213e,100:0f3460"/>
