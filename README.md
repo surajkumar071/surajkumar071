@@ -1,5 +1,4 @@
 # 💕 Hi there, I'm Suraj Kumar  💞
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=surajkumar071&label=Profile%20views&color=0e75b6&style=flat" alt="surajkumar071" />
 </p>
@@ -9,8 +8,11 @@
 ** Currently Learning C++ | Java | Python | Data Science | Machine Learning | Artificial Intelligence 
 | DBMS | MySQL | Oracle | MongoDB | DSA **
 
-
 Email Me 👉 ✉️ surajnirala9006@gmail.com For Collaboration/Project or Anything Else. 😊😊
+br
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+To+My+GitHub+Profile;Building+Websites+and+Applications+for+Freelancing;Developer+of+Smart+Creation+Point+E-Commerce+Website;DataScience+%2B+Python+%2B+Flutter+%2B+React+%2B+PHP+Developer" />
+
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/surajkumar071/surajkumar071/assets/images/hr.gif" />
 
@@ -125,7 +127,6 @@ Email Me 👉 ✉️ surajnirala9006@gmail.com For Collaboration/Project or Anyt
 ![](https://github-contributor-stats.vercel.app/api?username=surajkumar071&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 <!-- Snake Game Repo View -->
-
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
 </div>
