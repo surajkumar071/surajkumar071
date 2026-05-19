@@ -31,7 +31,7 @@ Email Me 👉 ✉️ surajnirala9006@gmail.com For Collaboration/Project or Anyt
 </picture>
 <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/surajkumar071/surajkumar071/assets/images/right.png" />
 
-
+<img width="200%" src="https://cdn.jsdelivr.net/gh/surajkumar071/surajkumar071/assets/images/hr.gif" />
 
 # 📊 GitHub Stats:
 <div align="center">
