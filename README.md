@@ -23,13 +23,14 @@ Email Me 👉 ✉️ surajnirala9006@gmail.com For Collaboration/Project or Anyt
 <img width="200%" src="https://cdn.jsdelivr.net/gh/surajkumar071/surajkumar071/assets/images/hr.gif" />
 
 <!-- github-readme-streak-stats-->
-<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/surajkumar071/surajkumar071/assets/images/left.png" />
+# 💫 GitHub Streak:
+<img align="left" width="170" src="https://cdn.jsdelivr.net/gh/surajkumar071/surajkumar071/assets/images/left.png" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=surajkumar071&theme=dark&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=surajkumar071&theme=light&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajkumar071&theme=dark&hide_border=true" />
 </picture>
-<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/surajkumar071/surajkumar071/assets/images/right.png" />
+<img align="right" width="170"  src="https://cdn.jsdelivr.net/gh/surajkumar071/surajkumar071/assets/images/right.png" />
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/surajkumar071/surajkumar071/assets/images/hr.gif" />
 
