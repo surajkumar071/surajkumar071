@@ -9,8 +9,8 @@
 | DBMS | MySQL | Oracle | MongoDB | DSA **
 
 Email Me 👉 ✉️ surajnirala9006@gmail.com For Collaboration/Project or Anything Else. 😊😊
-br
 
+<br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+To+My+GitHub+Profile;Building+Websites+and+Applications+for+Freelancing;Developer+of+Smart+Creation+Point+E-Commerce+Website;DataScience+%2B+Python+%2B+Flutter+%2B+React+%2B+PHP+Developer" />
 
 
