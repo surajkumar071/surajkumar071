@@ -6,7 +6,7 @@
 
 ** Passionate about Artificial Intelligence & Data Scientist || Frontend Developer **
 
-** Currently Learning C++ | Java | Python | Data Science | Artificial Intelligence 
+** Currently Learning C++ | Java | Python | Data Science | Machine Learning | Artificial Intelligence 
 | DBMS | MySQL | Oracle | MongoDB | DSA **
 
 
